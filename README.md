@@ -1,6 +1,6 @@
 # AIRMASH - the game that refused to die
 
-The game [Airmash](https://wwww.airmash.online) was announced on Dec 10 2017 on Hacker News by a user named *fivesigma*. The [announcement post](https://news.ycombinator.com/item?id=15892066) became one of the most upvoted posts on Hacker News, and the game became very succesful in the year to come. 
+The game [Airmash](https://airmash.online) was announced on Dec 10 2017 on Hacker News by a user named *fivesigma*. The [announcement post](https://news.ycombinator.com/item?id=15892066) became one of the most upvoted posts on Hacker News, and the game became very succesful in the year to come. 
 
 But it would have a very rocky history.
 
@@ -82,6 +82,6 @@ There has been speculation and stories about what really became of him after he 
 
 As the Remnant of Airmash players we're just hoping he's doing allright, we thank him for creating the game, and wish him the best.
 
-In the meantime, let's just play another round of [Airmash](https://www.airmash.online)!
+In the meantime, let's just play another round of [Airmash](https://airmash.online)!
 
 
